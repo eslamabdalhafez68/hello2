@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(){
-        System.out.println("helggggco");
+        System.out.println("helggghgco");
     }
 }
